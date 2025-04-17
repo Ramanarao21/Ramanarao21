@@ -1,6 +1,6 @@
 ## Hi there I'm Ramana Kondapally👋
 Welcome to my GitHub!
-I'm a Full Stack Developer passionate about building interactive, scalable web applications. I specialize in technologies like React.js, Node.js, Express.js, MongoDB, SQLite, Redux, and Socket.io, along with solid front-end skills in HTML, CSS, JavaScript, and Bootstrap. I blend technical expertise with a product-driven mindset to craft impactful digital solutions.
+I'm a Full Stack Developer passionate about building interactive, scalable web applications. I specialize in technologies like React.js, Node.js, Express.js, MongoDB, SQL, Redux, and Socket.io, along with solid front-end skills in HTML, CSS, JavaScript, and Bootstrap. I blend technical expertise with a product-driven mindset to craft impactful digital solutions.
 
 
 ## About Me
