@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramana Kondapally</h1>
-<h3 align="center">Learning, building, and growing — one bug at a time as a MERN developer</h3>
+
+<h3 align="center">Learning, building, and growing — one bug at a time as a MERN developer 💻</h3>
 
 - 📫 reach me **ramanaraoVK18@gmail.com**
 
